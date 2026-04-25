@@ -81,7 +81,7 @@ object DemoData {
         numero  = "0011-0192-0100234567",
         tipo    = "Cuenta de Ahorros MiBanco",
         saldo   = 4_250.75,
-        titular = "Vale Rojas"
+        titular = "Diego Carhuamaca"
     )
 
     // Segunda cuenta para el Dashboard (Tarea — mínimo 2 TarjetaCuenta)
@@ -89,7 +89,7 @@ object DemoData {
         numero  = "0011-0192-0200198432",
         tipo    = "Cuenta Corriente MiBanco",
         saldo   = 1_875.30,
-        titular = "Vale Rojas"
+        titular = "Diego Carhuamaca"
     )
 
     // Lista principal de transacciones (Transaccion con monto positivo/negativo)
